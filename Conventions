@@ -1,0 +1,6 @@
+1. Reserved Keywords cannot be used like new , let, var
+2.Variables should be in camelcasing like
+if two words are combined we should write as firstName 
+where 2nd word starting letter should be capital
+3.No variables should start with numbers
+4. variables can use only $ and _ sign
